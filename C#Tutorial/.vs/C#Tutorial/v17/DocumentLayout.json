@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|c:\\users\\gonzalofc\\fcts\\c#tutorial\\c#tutorial\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|solutionrelative:c#tutorial\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|c:\\users\\gonzalofc\\fcts\\c#tutorial\\c#tutorial\\superlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|solutionrelative:c#tutorial\\superlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|c:\\users\\gonzalofc\\fcts\\c#tutorial\\c#tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|solutionrelative:c#tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|c:\\users\\gonzalofc\\fcts\\c#tutorial\\c#tutorial\\addfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{444F9563-CF5F-4481-9B5A-3529CDD3B483}|C#Tutorial\\CTutorial.csproj|solutionrelative:c#tutorial\\addfive.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperList.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\SuperList.cs",
+              "RelativeDocumentMoniker": "C#Tutorial\\SuperList.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\SuperList.cs",
+              "RelativeToolTip": "C#Tutorial\\SuperList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:34:48.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddFive.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\AddFive.cs",
+              "RelativeDocumentMoniker": "C#Tutorial\\AddFive.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\AddFive.cs",
+              "RelativeToolTip": "C#Tutorial\\AddFive.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:25:14.194Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\Class1.cs",
+              "RelativeDocumentMoniker": "C#Tutorial\\Class1.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\Class1.cs",
+              "RelativeToolTip": "C#Tutorial\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T06:42:01.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "C#Tutorial\\Program.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\C#Tutorial\\C#Tutorial\\Program.cs",
+              "RelativeToolTip": "C#Tutorial\\Program.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAwwJQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T10:17:55.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

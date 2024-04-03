@@ -1,0 +1,14 @@
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.AssemblyInfoInputs.cache
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.AssemblyInfo.cs
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\bin\Debug\net7.0\C#Tutorial.exe
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\bin\Debug\net7.0\C#Tutorial.deps.json
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\bin\Debug\net7.0\C#Tutorial.runtimeconfig.json
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\bin\Debug\net7.0\C#Tutorial.dll
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\bin\Debug\net7.0\C#Tutorial.pdb
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.dll
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\refint\C#Tutorial.dll
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.pdb
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\C#Tutorial.genruntimeconfig.cache
+C:\Users\gonzalofc\FCTS\C#Tutorial\C#Tutorial\obj\Debug\net7.0\ref\C#Tutorial.dll
