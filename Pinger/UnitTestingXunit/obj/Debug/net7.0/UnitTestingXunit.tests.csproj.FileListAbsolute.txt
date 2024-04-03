@@ -1,0 +1,6 @@
+C:\Users\gonzalofc\FCTS\Pinger\UnitTestingXunit\obj\Debug\net7.0\UnitTestingXunit.tests.csproj.AssemblyReference.cache
+C:\Users\gonzalofc\FCTS\Pinger\UnitTestingXunit\obj\Debug\net7.0\UnitTestingXunit.tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalofc\FCTS\Pinger\UnitTestingXunit\obj\Debug\net7.0\UnitTestingXunit.tests.AssemblyInfoInputs.cache
+C:\Users\gonzalofc\FCTS\Pinger\UnitTestingXunit\obj\Debug\net7.0\UnitTestingXunit.tests.AssemblyInfo.cs
+C:\Users\gonzalofc\FCTS\Pinger\UnitTestingXunit\obj\Debug\net7.0\UnitTestingXunit.tests.csproj.CoreCompileInputs.cache
+C:\Users\gonzalofc\FCTS\Pinger\UnitTestingXunit\obj\Debug\net7.0\UnitTestingXunit.tests.sourcelink.json

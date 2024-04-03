@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}|UnitTestingXunit\\UnitTestin.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittestingxunit\\mailvalidatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}|UnitTestingXunit\\UnitTestin.csproj|solutionrelative:unittestingxunit\\mailvalidatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\emailnotprovidedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\emailnotprovidedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MailValidator.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\MailValidator.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\MailValidator.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\MailValidator.cs",
+              "RelativeToolTip": "UnitTesting\\MailValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T08:28:23.618Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailNotProvidedException.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\EmailNotProvidedException.cs",
+              "RelativeDocumentMoniker": "UnitTesting\\EmailNotProvidedException.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\EmailNotProvidedException.cs",
+              "RelativeToolTip": "UnitTesting\\EmailNotProvidedException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:05:21.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTesting.csproj",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\UnitTesting.csproj",
+              "RelativeDocumentMoniker": "UnitTesting\\UnitTesting.csproj",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\UnitTesting.csproj",
+              "RelativeToolTip": "UnitTesting\\UnitTesting.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T09:05:06.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MailValidatorShould.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTestingXunit\\MailValidatorShould.cs",
+              "RelativeDocumentMoniker": "UnitTestingXunit\\MailValidatorShould.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTestingXunit\\MailValidatorShould.cs",
+              "RelativeToolTip": "UnitTestingXunit\\MailValidatorShould.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T09:04:50.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\bin\Debug\net7.0\NuGetTry.deps.json
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\bin\Debug\net7.0\NuGetTry.dll
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\bin\Debug\net7.0\NuGetTry.pdb
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.AssemblyInfoInputs.cache
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.AssemblyInfo.cs
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.csproj.CoreCompileInputs.cache
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.sourcelink.json
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.dll
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\refint\NuGetTry.dll
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\NuGetTry.pdb
+C:\Users\gonzalofc\FCTS\NuGetTry\NuGetTry\obj\Debug\net7.0\ref\NuGetTry.dll

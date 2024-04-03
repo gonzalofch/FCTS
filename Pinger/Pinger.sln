@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pinger", "Pinger\Pinger.csproj", "{F5610592-3B04-4F8D-9742-9F05C13AC7E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTesting", "UnitTesting\UnitTesting.csproj", "{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestin", "UnitTestingXunit\UnitTestin.csproj", "{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5610592-3B04-4F8D-9742-9F05C13AC7E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5610592-3B04-4F8D-9742-9F05C13AC7E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5610592-3B04-4F8D-9742-9F05C13AC7E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5610592-3B04-4F8D-9742-9F05C13AC7E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {064D839E-0509-46D1-A853-BD1326C0F7DE}
+	EndGlobalSection
+EndGlobal
