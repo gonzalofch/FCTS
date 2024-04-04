@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NuGetTryTests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4682d2561e52e5d086bebd2dd643144571f23d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+990aff84a739fd37f7833e2db2b61620cd5ce38b")]
 [assembly: System.Reflection.AssemblyProductAttribute("NuGetTryTests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NuGetTryTests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

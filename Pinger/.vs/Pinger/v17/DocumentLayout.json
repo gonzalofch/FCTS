@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}|UnitTestingXunit\\UnitTestin.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittestingxunit\\mailvalidatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}|UnitTestingXunit\\UnitTestin.csproj|solutionrelative:unittestingxunit\\mailvalidatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5610592-3B04-4F8D-9742-9F05C13AC7E5}|Pinger\\Pinger.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\pinger\\pinger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F5610592-3B04-4F8D-9742-9F05C13AC7E5}|Pinger\\Pinger.csproj|solutionrelative:pinger\\pinger.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\emailnotprovidedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\emailnotprovidedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\unittesting.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\emailnotprovidedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\emailnotprovidedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}|UnitTestingXunit\\UnitTestin.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittestingxunit\\mailvalidatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BC8C46E-F5F7-4619-BC52-9DA95CC338C7}|UnitTestingXunit\\UnitTestin.csproj|solutionrelative:unittestingxunit\\mailvalidatorshould.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5610592-3B04-4F8D-9742-9F05C13AC7E5}|Pinger\\Pinger.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\pinger\\baseping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5610592-3B04-4F8D-9742-9F05C13AC7E5}|Pinger\\Pinger.csproj|solutionrelative:pinger\\baseping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|c:\\users\\gonzalofc\\fcts\\pinger\\unittesting\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1BCE9DE-99E7-4E78-9F85-2B16E6A1482B}|UnitTesting\\UnitTesting.csproj|solutionrelative:unittesting\\mailvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "MailValidator.cs",
               "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\MailValidator.cs",
               "RelativeDocumentMoniker": "UnitTesting\\MailValidator.cs",
@@ -39,12 +47,38 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T08:28:23.618Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BasePing.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\Pinger\\BasePing.cs",
+              "RelativeDocumentMoniker": "Pinger\\BasePing.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\Pinger\\BasePing.cs",
+              "RelativeToolTip": "Pinger\\BasePing.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:09:09.702Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Pinger.csproj",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\Pinger\\Pinger.csproj",
+              "RelativeDocumentMoniker": "Pinger\\Pinger.csproj",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\Pinger\\Pinger.csproj",
+              "RelativeToolTip": "Pinger\\Pinger.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-03T14:09:06.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "EmailNotProvidedException.cs",
               "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTesting\\EmailNotProvidedException.cs",
               "RelativeDocumentMoniker": "UnitTesting\\EmailNotProvidedException.cs",
@@ -52,7 +86,8 @@
               "RelativeToolTip": "UnitTesting\\EmailNotProvidedException.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-03T09:05:21.852Z"
+              "WhenOpened": "2024-04-03T09:05:21.852Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -64,17 +99,18 @@
               "RelativeToolTip": "UnitTesting\\UnitTesting.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-04-03T09:05:06.765Z"
+              "WhenOpened": "2024-04-03T09:05:06.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MailValidatorShould.cs",
               "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTestingXunit\\MailValidatorShould.cs",
               "RelativeDocumentMoniker": "UnitTestingXunit\\MailValidatorShould.cs",
               "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\Pinger\\UnitTestingXunit\\MailValidatorShould.cs",
               "RelativeToolTip": "UnitTestingXunit\\MailValidatorShould.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T09:04:50.941Z",
               "EditorCaption": ""

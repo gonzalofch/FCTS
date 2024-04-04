@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\gonzalofc\\FCTS\\NuGetTry\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{374C7610-E873-4FFE-88CC-2FD1D6D1DBAD}|NuGetTry\\NuGetTry.csproj|c:\\users\\gonzalofc\\fcts\\nugettry\\nugettry\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{374C7610-E873-4FFE-88CC-2FD1D6D1DBAD}|NuGetTry\\NuGetTry.csproj|solutionrelative:nugettry\\sampleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{61429799-0868-4FAD-A087-52B66399590D}|NuGetTryTests\\NuGetTryTests.csproj|c:\\users\\gonzalofc\\fcts\\nugettry\\nugettrytests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{61429799-0868-4FAD-A087-52B66399590D}|NuGetTryTests\\NuGetTryTests.csproj|solutionrelative:nugettrytests\\globalusings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,19 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "SampleClass.cs",
+              "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\NuGetTry\\NuGetTry\\SampleClass.cs",
+              "RelativeDocumentMoniker": "NuGetTry\\SampleClass.cs",
+              "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\NuGetTry\\NuGetTry\\SampleClass.cs",
+              "RelativeToolTip": "NuGetTry\\SampleClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T14:45:51.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "GlobalUsings.cs",
               "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\NuGetTry\\NuGetTryTests\\GlobalUsings.cs",
               "RelativeDocumentMoniker": "NuGetTryTests\\GlobalUsings.cs",
               "ToolTip": "C:\\Users\\gonzalofc\\FCTS\\NuGetTry\\NuGetTryTests\\GlobalUsings.cs",
               "RelativeToolTip": "NuGetTryTests\\GlobalUsings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T10:49:17.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SampleClassTests.cs",
               "DocumentMoniker": "C:\\Users\\gonzalofc\\FCTS\\NuGetTry\\NuGetTryTests\\SampleClassTests.cs",
               "RelativeDocumentMoniker": "NuGetTryTests\\SampleClassTests.cs",
